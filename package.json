@@ -1,0 +1,16 @@
+{
+  "name": "tenders-ville-api",
+  "version": "1.0.0",
+  "description": "Unified API for Tenders Ville platform",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@huggingface/hub": "^0.8.3",
+    "@netlify/functions": "^2.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^12.0.0"
+  }
+}
